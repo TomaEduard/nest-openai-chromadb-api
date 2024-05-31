@@ -1,0 +1,2 @@
+Delete Local Git Branch: git branch -d feature-branch
+Delete A Remote Branch git branch -d feature-branch
